@@ -1,6 +1,6 @@
 import webbrowser
 print("Make sure your file's visibility "+'in Google Drive is set to "Anyone with the link"')
-input_link = input('Enter your sharing URL: ')
+input_link = input(https://drive.google.com/drive/folders/17Z7Ok_RY50dzyk6VV2_0VBpeo1twkaoH?usp=sharing)
 input_link = input_link[32:]
 end = input_link.index('/')
 ID = input_link[:end]
